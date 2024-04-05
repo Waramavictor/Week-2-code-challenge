@@ -1,4 +1,4 @@
-# (Week 2 Codechallenge)
+# (WEEK 2 CODECHALLENGE)
 
 #### Date, 2024/04/1
 

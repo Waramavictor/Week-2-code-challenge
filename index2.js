@@ -11,4 +11,4 @@ function generateArray(start, end) {
     }
     return result;
 }
-console.log(result);
+window.alert(generateArray(2,5));

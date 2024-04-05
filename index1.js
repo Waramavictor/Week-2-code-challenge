@@ -12,4 +12,4 @@ function change() {
         return changedWords
     }
 }
-    console.log(changedWords);
+    window.alert(change());
